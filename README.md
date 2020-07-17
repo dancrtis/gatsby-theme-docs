@@ -1,6 +1,6 @@
 # Gatsby Theme Docs
 
-A simple Gatsby Theme for [Another C Library's](https://anotherclibrary.com) documentation web app that supports MDX.
+A simple Gatsby Theme that supports MDX for [Another C Library's](https://anotherclibrary.com) documentation web app.
 
 ## Prerequisites
 
@@ -42,7 +42,7 @@ This theme is used by a number of my own projects, so I'm not currently open to 
 
 #### Authors
 
-- Daniel Curtis [CurtisCodes.com](https://curtiscodes.com/) [@CodesCurtis]([https](https://twitter.com/codescurtis))
+- Daniel Curtis [CurtisCodes.com](https://curtiscodes.com/) [@CodesCurtis](https://twitter.com/codescurtis)
 
 #### Acknowledgements
 
