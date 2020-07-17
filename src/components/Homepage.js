@@ -6,9 +6,9 @@ import SEO from './SEO';
 
 export default function Home() {
   return (
-    <Layout>
+    <>
       <SEO />
       <Index />
-    </Layout>
+    </>
   );
 }
