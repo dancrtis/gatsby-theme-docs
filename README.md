@@ -21,11 +21,18 @@ A simple Gatsby Theme for [Another C Library's](https://anotherclibrary.com) doc
 
 Start the dev server and save file edits to see changes live. Components are written in React using styled components. The files are located in the **src** directory.
 
-**Guidelines:**
+**Coding Guidelines:**
 
 - Match the coding style in specific files
 - Add comments if code is not self-explanatory
 - Choose descriptive names over short names
+
+**GitHub Guidelines:**
+
+- Create a new branch `git checkout -b feature/feature-description`
+- Test all changes
+- Bump the version following [semantic versioning](https://semver.org/)
+- Create a pull request to the **dev** branch
 
 ## Contributing
 
